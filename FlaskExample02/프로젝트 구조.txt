@@ -1,0 +1,12 @@
+# flaskExample 리팩토링 프로젝트 구조
+
+flaskEample02/
+├── app.py              # 메인 실행 파일
+├── config.py           # 설정 관리
+├── .env                # 보안 설정 (.gitignore에 포함됨)
+├── backend/            # 백엔드 부문
+│   ├── models/         # 데이터 처리
+│   ├── services/       # BMI 계산 로직
+│   └── routes/         # 라우팅 (Blueprint)
+├── static/             # CSS 자원
+└── templates/          # HTML 자원
