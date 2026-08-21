@@ -216,5 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 별도 관리
 FlaskExample/
 HobbyMatch/
+HL_PRJ
