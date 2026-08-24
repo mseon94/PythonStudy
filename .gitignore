@@ -220,4 +220,5 @@ __marimo__/
 # 별도 관리
 FlaskExample/
 HobbyMatch/
-ML_PRJ
+ML_PRJ/
+model
