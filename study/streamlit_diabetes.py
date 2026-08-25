@@ -10,7 +10,7 @@ model = joblib.load('../model/diabetes_model.pkl')
 st.title('당뇨병 예측 시스템')
 st.write('Glucose, BMI, Age 값을 입력하여 당뇨병 예측을 해보세요')
 
-# 사용자 입력받기
+# 사용자 입력받기``
 glucose = st.slider(
     'Glucose(혈당수치)',
     min_value=0,
