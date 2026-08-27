@@ -222,3 +222,12 @@ FlaskExample/
 HobbyMatch/
 ML_PRJ/
 model/
+
+# YOLO 기본 사전학습 가중치
+yolov8n.pt
+
+# YOLO 실행 결과
+runs/
+
+# 다운로드 데이터셋
+/dataset/flower_dataset/
