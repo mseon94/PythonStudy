@@ -221,6 +221,7 @@ __marimo__/
 FlaskExample/
 HobbyMatch/
 ML_PRJ/
+Deep_Learning_PRJ/
 model/
 
 # YOLO 기본 사전학습 가중치
